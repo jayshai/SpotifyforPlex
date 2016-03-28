@@ -1,0 +1,17 @@
+[{
+    "id": "username",
+    "type": "text",
+    "label": "PREF_USERNAME",
+    "default": ""
+}, {
+    "id": "password",
+    "type": "text",
+    "option": "hidden",
+    "label": "PREF_PASSWORD",
+    "default": ""
+}, {
+    "id": "displayAlbumYear",
+    "type": "bool",
+    "label": "PREF_SHOWALBUMYEAR",
+    "default": "false"
+}]

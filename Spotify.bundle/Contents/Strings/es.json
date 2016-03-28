@@ -1,0 +1,46 @@
+{
+    "PREF_USERNAME": "Usuario",
+    "PREF_PASSWORD": "Contraseña",
+    "PREF_SORTPLAYLISTS": "Ordena las listas por nombre",
+    "PREF_SHOWALBUMYEAR": "Mostrar el año de lanzamiento del album",
+    "PREF_REGION": "Region (codigo de dos letras del país)",
+
+    "MENU_DISCOVER": "Descubre",
+    "MENU_EXPLORE": "Explorar",
+    "MENU_YOUR_MUSIC": "Tu Musica",
+    "MENU_FEATURED_PLAYLISTS": "Recomendadas",
+    "MENU_TOP_PLAYLISTS": "Exitos",
+    "MENU_NEW_RELEASES": "Lanzamientos",
+    "MENU_GENRES": "Generos",
+    "MENU_PLAYLISTS": "Listas",
+    "MENU_SEARCH": "Buscar",
+    "MENU_ALBUMS": "Albumes",
+    "MENU_ARTISTS": "Artistas",
+    "MENU_TOP_TRACKS": "Temas principales",
+    "MENU_RADIO": "Radio",
+    "MENU_RADIO_STATIONS": "Estaciones",
+    "MENU_RADIO_GENRES": "Generos",
+    "MENU_RADIO_TRACK_NUM": "¿Cuántas canciones?",
+    "MENU_TRACK_NUM": "Generar %s temas",
+    "MENU_RELATED": "Artistas Relacionados",
+    "MENU_ALBUM_TRACKS": "Temas",
+
+    "MENU_PREFS": "Opciones",
+
+    "PROMPT_SEARCH": "Buscar musica",
+
+    "MSG_TITLE_MISSING_LOGIN": "Faltan los datos de autenticacion",
+    "MSG_TITLE_LOGIN_IN_PROGRESS": "Ingresando",
+    "MSG_TITLE_LOGIN_FAILED": "Fallo el ingreso",
+    "MSG_TITLE_PLAYLIST_ERROR": "Fallo al traer las listas",
+    "MSG_TITLE_NO_RESULTS": "No hay resultados",
+    "MSG_TITLE_UNKNOWN_PLAYLIST": "No se pudo encontrar la lista",
+
+    "MSG_BODY_MISSING_LOGIN": "No se configuraron los datos de usuario y contraseña",
+    "MSG_BODY_LOGIN_IN_PROGRESS": "Aun estamos intentando abrir una sesion con Spotify...",
+    "MSG_BODY_PLAYIST_ERROR": "No se encontro el detalle para la lista seleccionada",
+
+    "MSG_FMT_DID_YOU_MEAN": "Quieres decir '%s'?",
+    "MSG_FMT_NO_RESULTS": "Sin resultados para '%s'...",
+    "MSG_RELATED_TO": "Relacionados con %s"
+}
